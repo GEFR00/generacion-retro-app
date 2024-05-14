@@ -1,0 +1,15 @@
+.gr-nav {
+    padding: 1rem 0;
+    background-color: #333;
+}
+
+.gr-navList {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.gr-navList a {
+    color: #ffff;
+}
