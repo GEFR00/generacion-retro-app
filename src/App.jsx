@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <Menu />
-      <Banner />
+      <Banner showPrograms={true} tableInfoName={'Programas'} />
     </>
   )
 }
